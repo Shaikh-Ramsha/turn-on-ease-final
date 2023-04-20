@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    top: 5%;
+    color: rgb(24, 80, 93);
+    text-align: center;
+}
+body{
+    background-color: rgb(223, 235, 240);
+}
+
+  .wrapper1 {
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 20%;
+  }
+  
+  .container1 {
+    width: 100%;
+    background-color: rgb(225, 192, 225);
+    padding: 50px 40px;
+    box-shadow: 0 20px 65px rgba(91, 24, 65, 0.5);
+    position: absolute;
+    border-radius: 8px;
+    text-align: center;
+  }
+img{
+    position:relative;
+    height: 30vh;
+    width:35vh ;
+    border-radius: 2px;
+}
+  .container1  button {
+    background-color: #78466e;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(19, 2, 14);
+    cursor: pointer;
+  }
+  
+  .wrapper2 {
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+  }
+  
+  .container2 {
+    width: 100%;
+    background-color: rgb(225, 192, 225);
+    padding: 50px 40px;
+    box-shadow: 0 20px 65px rgba(91, 24, 65, 0.5);
+    position: absolute;
+    border-radius: 8px;
+    text-align: center;
+  }
+img{
+    position:relative;
+    height: 30vh;
+    width:35vh ;
+    border-radius: 6px;
+}
+  .container2  button {
+    background-color: #78466e;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(19, 2, 14);
+    cursor: pointer;
+  }
+
+  .wrapper3 {
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 80%;
+  }
+  
+  .container3 {
+    width: 100%;
+    background-color: rgb(225, 192, 225);
+    padding: 50px 40px;
+    box-shadow: 0 20px 65px rgba(91, 24, 65, 0.5);
+    position: absolute;
+    border-radius: 8px;
+    text-align: center;
+  }
+img{
+    position:relative;
+    height: 30vh;
+    width:35vh ;
+    border-radius: 6px;
+}
+  .container3  button {
+    background-color: #78466e;
+    border: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(19, 2, 14);
+    cursor: pointer;
+  }
+  
